@@ -1,5 +1,5 @@
 import time
-#Gustavo Henrique Palu
+
 #faz introducao ao usuario
 time.sleep(2)
 print('\n\nNos entrelaçados caminhos cósmicos, onde o destino sussurra os segredos do universo, quais cartas abrirão a porta para sua verdade?')
