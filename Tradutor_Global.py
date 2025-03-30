@@ -1,4 +1,4 @@
-#Gustavo Henrique Palu 
+ 
 #input do usuario
 Decisao_1 = int(input('Digite o que quer, Decifrar(1) ou criptografar(2): '))
 Decisao_2 = int(input('Digite o que quer, Binario (2), Octal (8) ou Hexadecimal (16): '))
